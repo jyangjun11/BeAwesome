@@ -10,6 +10,7 @@
     <!-- 测试文本5 -->
     <!-- test6 -->
     <!-- test7 -->
+    <!-- 测试文本7 -->
     <groupId>com.pinyougou</groupId>
     <artifactId>pinyougou-parent</artifactId>
     <version>1.0-SNAPSHOT</version>
