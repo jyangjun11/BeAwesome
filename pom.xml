@@ -5,6 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <!-- 测试文本 -->
     <!-- 测试文本2 -->
+    <!-- 测试文本3 -->
     <groupId>com.pinyougou</groupId>
     <artifactId>pinyougou-parent</artifactId>
     <version>1.0-SNAPSHOT</version>
